@@ -1,0 +1,86 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-image: url("../img/landing-page.jpg");
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+
+.btn{
+  background-color: #1ca313;
+  color: white;
+}
+
+.btn:hover{
+  background-color: #1ca313;
+  color: white;
+}
+
+.custom-card{
+    background: transparent;
+}
+
+/*PRELOADER*/
+.my-spinner{
+  color: #5f4921;
+}
+/*ENDPRELOADER*/
+
+/*MODAL*/
+.my-modal{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+}
+/*ENDMODAL*/
+
+.my-color{
+  background-color: #1ca313;
+}
+
+.my-subcolor{
+  background-color: #7B5F2B;
+}
+
+/*ADMINCARDHEADER*/
+.my-card-header{
+  background-color: #5f4921;
+}
+.my-item{
+  color : white;
+}
+
+.card-header{
+  color: white;
+  background-color: #1ca313;
+}
+/*ADMINCARDHEADER*/
+
+footer p a.klasku{
+    color: blue;
+}
+
+.custom-col{
+    background-color: rgba(33, 146, 11, 0.822);
+    backdrop-filter: blur(1px);
+}
+.custom-col h4{
+    font-family: 'Montserrat Alternates', sans-serif;
+    color: #ffffff;
+}
+
+.custom-span{
+    font-size: smaller;
+}
+
+/* TopBar */
+a.menu-link span{
+    color: white;
+    font-size: medium;
+}
+
+.topbar-expand-lg.topbar .topbar-navigation{
+    background-color: #1ca313;
+    font-size: medium;
+}
+/* End TopBar */

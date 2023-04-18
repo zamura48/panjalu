@@ -1,0 +1,163 @@
+/*MY CUSTOM*/
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.btn{
+  background-color: #5f4921;
+  color: white;
+}
+
+.btn:hover{
+  background-color: #7B5F2B;
+  color: white;
+}
+
+/*PRELOADER*/
+.my-spinner{
+  color: #5f4921;
+}
+/*ENDPRELOADER*/
+
+/*MODAL*/
+.my-modal{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+}
+/*ENDMODAL*/
+
+/*HEADER*/
+.my-container-header{
+  background-image: url("../img/bg2.png");
+  background-size: auto;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-bottom: 40px;
+}
+
+.my-row1-header{
+  margin-left: 20px;
+}
+
+.my-row1-h4-header{
+  font-family: 'Noto Sans JP', sans-serif;
+  font-weight: 700;
+  font-size: 20px;
+  color: black;
+}
+
+.my-row1-h4-header:hover{
+  color: black;
+}
+
+.my-h3-header-subtitle{
+  margin-left: 40px;
+  margin-top: 20px;
+  font-family: 'Noto Sans JP', sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.my-p-header-subtitle{
+  margin-left: 40px;
+}
+
+.my-image-header{
+  background-image: url("../img/5229-cutout.png");
+  background-size: auto;
+  background-repeat: no-repeat;
+  background-size: 400px 180px;
+  background-position: center;
+}
+/*END HEADER*/
+
+/*PENCARIAN*/
+.my-card{
+  border-style: solid;
+  border-color: #ECE3CA;
+  border-radius: 5px;
+  border-width: 0.1em;
+}
+/*END PENCARIAN*/
+
+/*RESULT*/
+/*.my-btn-table{
+  background-color: #5f4921;
+  color: white;
+}
+
+.my-btn-table:hover{
+  background-color: #7B5F2B;
+  color: white;
+}
+
+.my-btn-result{
+  color: white;
+}
+
+.my-btn-result:hover{
+  color: white;
+}*/
+/*ENDRESULT*/
+
+/*FOOTER*/
+.my-footer{
+  background-color: #5f4921;
+  color: white;
+  font-size: 12px;
+  text-align: center;
+}
+
+/*.my-icon-pencarian{
+  background-color: #5f4921;
+}
+
+.my-icon-pencarian:hover{
+  background-color: #7B5F2B;
+}*/
+
+.card-header{
+  color: white;
+  background-color: #5f4921;
+}
+/*ENDFOOTER
+
+/*ADMINCARDHEADER*/
+.my-card-header{
+  background-color: #5f4921;
+}
+.my-item{
+  color : white;
+}
+/*ADMINCARDHEADER*/
+
+.my-color{
+  background-color: #5f4921;
+}
+
+.my-subcolor{
+  background-color: #7B5F2B;
+}
+
+/* NAV TABS */
+a.nav-link.active{
+    color: black;
+}
+
+a.nav-link{
+    color: white;
+}
+
+.nav-tabs{
+    background-color: #5f4921;
+}
+
+ul.panjalu-custom .nav-item a.nav-link{
+    color: white;
+}
+ul.panjalu-custom .nav-item a.nav-link.active{
+    color: black;
+}
+/* END NAV TABS */
